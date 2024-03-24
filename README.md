@@ -1,2 +1,5 @@
-# Python-WebHook-Sender-Template
-A site that will make code for you to send a message to a WebHook with python.
+# Python Webhook Sender Template
+A template for sending messages, embeds or images via webhooks with python.
+
+# Guide
+A [https://birdie0.github.io/discord-webhooks-guide/](Guide) of what to put in the data class **not made by me**
